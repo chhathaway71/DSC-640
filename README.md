@@ -14,7 +14,9 @@ Project 4 is an infographic.
 Project 5 is an audio presentation.
 
 ## Installation
-The data files are not available at this time, but will be added later.
+The data files available in the data folder.
+
+Modificaiton were performed to the files in the PowerBI application as needed.
 
 The code is available as PowerBI files for graphing purposes.
 
